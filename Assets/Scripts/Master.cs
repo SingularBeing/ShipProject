@@ -31,7 +31,8 @@ public class Master : MonoBehaviour
             if (m_PlayerStats.m_CurrentLives <= 0)
             {
                 m_PlayerStats.m_CurrentLives = 0;
-                Destroy(m_PlayerShip.gameObject);
+                if(m_PlayerShip != null)
+                  Destroy(m_PlayerShip.gameObject);
             }
             else
             {

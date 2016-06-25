@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 
 	public int m_CurrentHealth = 100;
 	public int m_MaxHealth = 100;
+    public SplineWalk m_Walk;
 
 	public void Impact (int damage)
 	{
@@ -15,6 +16,9 @@ public class Enemy : MonoBehaviour
 
     void Start()
     {
+        m_Walk = GetComponent<SplineWalk>();
+        int rand = Random.Range(0, 100);
+        m_Walk.spline = (rand >= 0 && rand <= 49) ? GameObject.Find("Bezier_CShape").GetComponent<BezierSpline>() : GameObject.Find("Bezier_SShape").GetComponent<BezierSpline>();
         StartCoroutine("WaitToShoot");
     }
 
