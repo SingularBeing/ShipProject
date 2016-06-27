@@ -9,7 +9,7 @@ public class SpaceshipStats : MonoBehaviour
 	public int m_CurrentScore = 0;
 	public int m_CurrentLives = 3;
 	public int m_CurrentHealth = 100;
-	public int m_MaxHealth = 100;
+    public int m_MaxHealth = 100;
 
 	public Text m_TextScore;
 	public Text m_TextLives;

@@ -14,10 +14,12 @@ public class Bullet : MonoBehaviour
 
 	public UserOfBullet m_BulletUser;
 
-	void Start ()
-	{
-		StartCoroutine ("WaitForDestroy");
-	}
+    void Start()
+    {
+        if (m_BulletUser != UserOfBullet.Enemey)
+            m_DamageValue = Master.m_PlayerStandardBulletDamage;
+        StartCoroutine("WaitForDestroy");
+    }
 
 	void OnTriggerEnter2D (Collider2D coll)
 	{

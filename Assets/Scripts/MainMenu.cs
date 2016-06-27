@@ -8,13 +8,15 @@ public class MainMenu : MonoBehaviour {
     const string m_MainGUI = "Main_Info";
     private GameObject m_BeginningObjectBackup;
     private GameObject m_MainGUIObject;
+    private GameObject m_OptionsObject;
 
-    void Start()
+    void Awake()
     {
         PlayerPrefs.DeleteKey("shownInfo");
         m_BeginningObjectBackup = GameObject.Find(m_BeginningObject);
         m_BeginningObjectBackup.SetActive(false);
         m_MainGUIObject = GameObject.Find(m_MainGUI);
+        m_OptionsObject = GameObject.Find("Options");
     }
 
 	public void Button_Play()
@@ -37,7 +39,8 @@ public class MainMenu : MonoBehaviour {
 
     public void Button_Options()
     {
-
+        m_OptionsObject.SetActive(true);
+        m_MainGUIObject.SetActive(false);
     }
 
     public void Button_Tips()
@@ -48,6 +51,13 @@ public class MainMenu : MonoBehaviour {
     public void Button_Credits()
     {
 
+    }
+
+    public void Load_Main()
+    {
+        m_MainGUIObject.SetActive(true);
+        m_OptionsObject.SetActive(false);
+        m_BeginningObjectBackup.SetActive(false);
     }
 
 }

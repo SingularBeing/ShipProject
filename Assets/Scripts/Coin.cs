@@ -10,7 +10,7 @@ public class Coin : MonoBehaviour
         if(_distanceFromPlayer < 0.8f)
         {
             //collect the coin
-            Master.m_Instance.IncreaseCoins(1);
+            Master.m_Instance.IncreaseCoins(Random.RandomRange(1, 10));
             Destroy(gameObject);
         }
 	}

@@ -7,10 +7,16 @@ public class Master : MonoBehaviour
 	public Spaceship m_PlayerShip;
 	public SpaceshipStats m_PlayerStats;
 	public static Master m_Instance;
+    public GameObject m_WorldCanvas;
 
-	public GameObject m_CoinPrefab;
+    public GameObject m_CoinPrefab;
 	public GameObject m_EnemyPrefab;
     public GameObject m_BulletPrefab;
+    public GameObject m_EnemyHealthbarPrefab;
+
+    public static int m_PlayerStandardBulletDamage = 10;
+    public static int m_PlayerBonusBulletDamage = 100;
+
 
 	void Awake ()
 	{
@@ -76,6 +82,14 @@ public class Master : MonoBehaviour
     public void IncreaseCoins(int amount)
     {
         m_PlayerStats.m_CurrentCoins += amount;
+    }
+
+    public GameObject CreateEnemyHealthbar()
+    {
+        GameObject _healthBar = (GameObject)Instantiate(m_EnemyHealthbarPrefab);
+        _healthBar.AddComponent<EnemyHealthbar>();
+        _healthBar.transform.SetParent(m_WorldCanvas.transform);
+        return _healthBar;
     }
 
 }
