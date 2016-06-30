@@ -54,9 +54,20 @@ public class LevelSelection : MonoBehaviour {
 
     public void LoadLevel()
     {
-        if (l1) SceneManager.LoadScene("World_1");
-        else if (l2) SceneManager.LoadScene("World_2");
-        else if (l3) SceneManager.LoadScene("World_3");
+        if (l1)
+        {
+            PlayerPrefs.SetString("CurrentLevel", "Level_1");
+        }
+        else if (l2)
+        {
+            PlayerPrefs.SetString("CurrentLevel", "Level_2");
+        }
+        else if (l3)
+        {
+            PlayerPrefs.SetString("CurrentLevel", "Level_3");
+        }
+
+        SceneManager.LoadScene("Lottery");
     }
 
 }

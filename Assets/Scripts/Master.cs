@@ -28,17 +28,27 @@ public class Master : MonoBehaviour
 		
 	}
 
+    bool _died;
+
     void Update()
     {
-        if (m_PlayerStats.m_Health <= 0)
+        if (m_PlayerStats.m_Health <= 0 && !_died)
         {
             //lower lives and respawn
             m_PlayerStats.m_CurrentLives -= 1;
             if (m_PlayerStats.m_CurrentLives <= 0)
             {
                 m_PlayerStats.m_CurrentLives = 0;
-                if(m_PlayerShip != null)
-                  Destroy(m_PlayerShip.gameObject);
+                if (m_PlayerShip != null)
+                    m_PlayerShip.gameObject.SetActive(false);
+
+                //check for a prize
+                if(PlayerPrefs.GetString("Lottery") != string.Empty)
+                {
+                    Debug.Log("You lost : " + PlayerPrefs.GetString("Lottery"));
+                    PlayerPrefs.SetString("Lottery", string.Empty);
+                }
+                _died = true;
             }
             else
             {
