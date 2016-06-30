@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: 385fb3724bc978647902c13bf668fb78
+timeCreated: 1467325224
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: photo_2016-06-30_18-12-52_0
+    21300002: photo_2016-06-30_18-12-52_1
+    21300004: photo_2016-06-30_18-12-52_2
+    21300006: photo_2016-06-30_18-12-52_3
+    21300008: photo_2016-06-30_18-12-52_4
+    21300010: photo_2016-06-30_18-12-52_5
+    21300012: photo_2016-06-30_18-12-52_6
+    21300014: photo_2016-06-30_18-12-52_7
+    21300016: photo_2016-06-30_18-12-52_8
+    21300018: photo_2016-06-30_18-12-52_9
+    21300020: photo_2016-06-30_18-12-52_10
+    21300022: photo_2016-06-30_18-12-52_11
+    21300024: photo_2016-06-30_18-12-52_12
+    21300026: photo_2016-06-30_18-12-52_13
+    21300028: photo_2016-06-30_18-12-52_14
+    21300030: photo_2016-06-30_18-12-52_15
+    21300032: photo_2016-06-30_18-12-52_16
+    21300034: photo_2016-06-30_18-12-52_17
+    21300036: photo_2016-06-30_18-12-52_18
+    21300038: photo_2016-06-30_18-12-52_19
+    21300040: photo_2016-06-30_18-12-52_20
+    21300042: photo_2016-06-30_18-12-52_21
+    21300044: photo_2016-06-30_18-12-52_22
+    21300046: photo_2016-06-30_18-12-52_23
+    21300048: photo_2016-06-30_18-12-52_24
+    21300050: photo_2016-06-30_18-12-52_25
+    21300052: photo_2016-06-30_18-12-52_26
+    21300054: photo_2016-06-30_18-12-52_27
+    21300056: photo_2016-06-30_18-12-52_28
+    21300058: photo_2016-06-30_18-12-52_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: photo_2016-06-30_18-12-52_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 804
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 54}
+        - {x: -28, y: 18}
+        - {x: -20, y: 2}
+        - {x: -11, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 38}
+        - {x: 16, y: 54}
+      - - {x: 25, y: 54}
+        - {x: 25, y: 48}
+        - {x: 27, y: 46}
+        - {x: 28, y: 46}
+        - {x: 28, y: 54}
+    - name: photo_2016-06-30_18-12-52_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 821
+        width: 57
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 0}
+        - {x: -24.5, y: 0}
+        - {x: -25.5, y: 5}
+        - {x: -27.5, y: 7}
+        - {x: -28.5, y: 7}
+      - - {x: -28.5, y: 53}
+        - {x: -28.5, y: 25}
+        - {x: -17.5, y: 9}
+        - {x: -6.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 28.5, y: 1}
+        - {x: 28.5, y: 39}
+        - {x: 8.5, y: 53}
+    - name: photo_2016-06-30_18-12-52_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 778
+        width: 81
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 45}
+        - {x: -0.5, y: 54}
+        - {x: -32.5, y: 54}
+        - {x: -40.5, y: 45}
+        - {x: -40.5, y: 20}
+        - {x: -24.5, y: 3}
+        - {x: -3.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 39.5, y: 3}
+        - {x: 40.5, y: 10}
+        - {x: 40.5, y: 45}
+    - name: photo_2016-06-30_18-12-52_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 761
+        width: 76
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 70}
+        - {x: -15, y: 70}
+        - {x: -22, y: 69}
+        - {x: -38, y: 53}
+        - {x: -38, y: 3}
+        - {x: -30, y: 0}
+        - {x: -5, y: 0}
+        - {x: 31, y: 42}
+        - {x: 38, y: 51}
+        - {x: 38, y: 64}
+      - - {x: -1, y: 1}
+        - {x: -1, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 4}
+        - {x: 6, y: 6}
+        - {x: 4, y: 6}
+      - - {x: 26, y: 0}
+        - {x: 25, y: 3}
+        - {x: 20, y: 3}
+        - {x: 19, y: 0}
+    - name: photo_2016-06-30_18-12-52_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 709
+        width: 237
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 158}
+        - {x: -118.5, y: 54}
+        - {x: -118.5, y: 13}
+        - {x: -115.5, y: 4}
+        - {x: -109.5, y: 8}
+        - {x: -88.5, y: 0}
+        - {x: 72.5, y: 0}
+        - {x: 118.5, y: 67}
+        - {x: 118.5, y: 121}
+        - {x: 86.5, y: 158}
+      - - {x: 26.5, y: 145}
+        - {x: 29.5, y: 146}
+        - {x: 29.5, y: 149}
+        - {x: 26.5, y: 150}
+        - {x: 24.5, y: 148}
+    - name: photo_2016-06-30_18-12-52_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 701
+        width: 236
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 2}
+        - {x: -77, y: 0}
+        - {x: -68, y: 0}
+        - {x: -67, y: 1}
+        - {x: -68, y: 4}
+        - {x: -76, y: 4}
+      - - {x: 82, y: 158}
+        - {x: -74, y: 158}
+        - {x: -118, y: 55}
+        - {x: -118, y: 7}
+        - {x: -112, y: 4}
+        - {x: -81, y: 36}
+        - {x: -67, y: 0}
+        - {x: -27, y: 0}
+        - {x: -22, y: 4}
+        - {x: -14, y: 4}
+        - {x: -7, y: 5}
+        - {x: 8, y: 23}
+        - {x: 8, y: 4}
+        - {x: -22, y: 4}
+        - {x: -24, y: 2}
+        - {x: -24, y: 0}
+        - {x: 54, y: 0}
+        - {x: 73, y: 13}
+        - {x: 118, y: 54}
+        - {x: 118, y: 120}
+      - - {x: 113, y: 116}
+        - {x: 116, y: 117}
+        - {x: 116, y: 120}
+        - {x: 113, y: 121}
+        - {x: 111, y: 119}
+    - name: photo_2016-06-30_18-12-52_6
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 693
+        width: 271
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 180}
+        - {x: -135.5, y: 64}
+        - {x: -135.5, y: 35}
+        - {x: -75.5, y: 0}
+        - {x: 76.5, y: 0}
+        - {x: 132.5, y: 58}
+        - {x: 132.5, y: 142}
+        - {x: 61.5, y: 180}
+      - - {x: 132.5, y: 85}
+        - {x: 134.5, y: 83}
+        - {x: 135.5, y: 83}
+        - {x: 135.5, y: 91}
+        - {x: 132.5, y: 90}
+      - - {x: 117.5, y: 129}
+        - {x: 120.5, y: 130}
+        - {x: 120.5, y: 133}
+        - {x: 117.5, y: 134}
+        - {x: 115.5, y: 132}
+    - name: photo_2016-06-30_18-12-52_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 685
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 60}
+        - {x: -19.5, y: 54}
+        - {x: -38.5, y: 45}
+        - {x: -38.5, y: 13}
+        - {x: -34.5, y: 2}
+        - {x: -25.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 37.5, y: 12}
+        - {x: 38.5, y: 29}
+        - {x: 38.5, y: 60}
+    - name: photo_2016-06-30_18-12-52_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 692
+        width: 95
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 43}
+        - {x: 35.5, y: 47}
+        - {x: 28.5, y: 49}
+        - {x: -47.5, y: 49}
+        - {x: -47.5, y: 33}
+        - {x: 4.5, y: 0}
+        - {x: 47.5, y: 0}
+        - {x: 47.5, y: 37}
+        - {x: 45.5, y: 40}
+    - name: photo_2016-06-30_18-12-52_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 678
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 87}
+        - {x: -35, y: 77}
+        - {x: -35, y: 17}
+        - {x: -20, y: 0}
+        - {x: 33, y: 0}
+        - {x: 35, y: 1}
+        - {x: 35, y: 33}
+        - {x: 12, y: 87}
+    - name: photo_2016-06-30_18-12-52_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 509
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 103}
+        - {x: -25.5, y: 49}
+        - {x: -25.5, y: 0}
+        - {x: -8.5, y: 0}
+        - {x: 22.5, y: 20}
+        - {x: 25.5, y: 46}
+        - {x: 25.5, y: 103}
+    - name: photo_2016-06-30_18-12-52_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 505
+        width: 145
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 113}
+        - {x: 13.5, y: 127}
+        - {x: -52.5, y: 127}
+        - {x: -68.5, y: 110}
+        - {x: -72.5, y: 95}
+        - {x: -72.5, y: 23}
+        - {x: -43.5, y: 0}
+        - {x: 49.5, y: 0}
+        - {x: 55.5, y: 3}
+        - {x: 72.5, y: 35}
+        - {x: 72.5, y: 111}
+      - - {x: -3.5, y: 0}
+        - {x: 0.5, y: 0}
+        - {x: 0.5, y: 3}
+        - {x: -2.5, y: 4}
+        - {x: -4.5, y: 2}
+    - name: photo_2016-06-30_18-12-52_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 547
+        width: 105
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 27}
+        - {x: -32.5, y: 0}
+        - {x: 52.5, y: 0}
+        - {x: 52.5, y: 65}
+        - {x: 31.5, y: 102}
+        - {x: -30.5, y: 102}
+        - {x: -33.5, y: 101}
+        - {x: -52.5, y: 61}
+      - - {x: 18.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 3}
+        - {x: 19.5, y: 4}
+        - {x: 17.5, y: 2}
+      - - {x: 49.5, y: 54}
+        - {x: 51.5, y: 52}
+        - {x: 52.5, y: 52}
+        - {x: 52.5, y: 57}
+        - {x: 50.5, y: 57}
+    - name: photo_2016-06-30_18-12-52_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 482
+        width: 250
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 160}
+        - {x: -52, y: 157}
+        - {x: -125, y: 118}
+        - {x: -125, y: 66}
+        - {x: -119, y: 42}
+        - {x: -56, y: 0}
+        - {x: 65, y: 0}
+        - {x: 125, y: 64}
+        - {x: 125, y: 155}
+        - {x: 108, y: 160}
+    - name: photo_2016-06-30_18-12-52_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 478
+        width: 250
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 161}
+        - {x: 48, y: 147}
+        - {x: 51, y: 156}
+        - {x: 19, y: 172}
+        - {x: -86, y: 172}
+        - {x: -86, y: 167}
+        - {x: -77, y: 154}
+        - {x: -125, y: 122}
+        - {x: -125, y: 33}
+        - {x: -99, y: 0}
+        - {x: 45, y: 0}
+        - {x: 125, y: 58}
+        - {x: 125, y: 111}
+        - {x: 76, y: 163}
+      - - {x: -81, y: 154}
+        - {x: -78, y: 155}
+        - {x: -78, y: 158}
+        - {x: -81, y: 159}
+        - {x: -83, y: 157}
+    - name: photo_2016-06-30_18-12-52_15
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 473
+        width: 284
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 208}
+        - {x: -26, y: 182}
+        - {x: -25, y: 176}
+        - {x: -37, y: 186}
+        - {x: -142, y: 133}
+        - {x: -142, y: 113}
+        - {x: -124, y: 80}
+        - {x: -57, y: 0}
+        - {x: 67, y: 0}
+        - {x: 142, y: 63}
+        - {x: 142, y: 138}
+        - {x: 76, y: 208}
+      - - {x: 139, y: 111}
+        - {x: 141, y: 109}
+        - {x: 142, y: 109}
+        - {x: 142, y: 115}
+        - {x: 139, y: 114}
+    - name: photo_2016-06-30_18-12-52_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 408
+        width: 39
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 69}
+        - {x: -7.5, y: 66}
+        - {x: -19.5, y: 23}
+        - {x: -19.5, y: 3}
+        - {x: -14.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 69}
+    - name: photo_2016-06-30_18-12-52_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 406
+        width: 38
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 70}
+        - {x: -19, y: 54}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 42}
+        - {x: 17, y: 55}
+        - {x: 9, y: 70}
+    - name: photo_2016-06-30_18-12-52_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 411
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 72}
+        - {x: -14.5, y: 72}
+        - {x: -20.5, y: 63}
+        - {x: -20.5, y: 7}
+        - {x: -19.5, y: 2}
+        - {x: -18.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 20.5, y: 4}
+        - {x: 20.5, y: 30}
+        - {x: 13.5, y: 64}
+      - - {x: 3.5, y: 67}
+        - {x: 6.5, y: 68}
+        - {x: 6.5, y: 71}
+        - {x: 3.5, y: 72}
+        - {x: 1.5, y: 70}
+    - name: photo_2016-06-30_18-12-52_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 327
+        width: 80
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 67}
+        - {x: -40, y: 20}
+        - {x: -40, y: 0}
+        - {x: 8, y: 0}
+        - {x: 40, y: 29}
+        - {x: 40, y: 67}
+    - name: photo_2016-06-30_18-12-52_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 289
+        width: 53
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 73}
+        - {x: -26.5, y: 41}
+        - {x: -26.5, y: 11}
+        - {x: -13.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 26.5, y: 16}
+        - {x: 26.5, y: 73}
+    - name: photo_2016-06-30_18-12-52_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 283
+        width: 48
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 79}
+        - {x: -24, y: 46}
+        - {x: -24, y: 9}
+        - {x: -15, y: 2}
+        - {x: -10, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 27}
+        - {x: 24, y: 79}
+    - name: photo_2016-06-30_18-12-52_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 285
+        width: 45
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 77}
+        - {x: -2.5, y: 77}
+        - {x: -22.5, y: 36}
+        - {x: -22.5, y: 10}
+        - {x: -9.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 22.5, y: 11}
+        - {x: 22.5, y: 70}
+        - {x: 21.5, y: 75}
+    - name: photo_2016-06-30_18-12-52_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 101
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 104}
+        - {x: -50.5, y: 61}
+        - {x: -50.5, y: 37}
+        - {x: -32.5, y: 0}
+        - {x: 46.5, y: 0}
+        - {x: 50.5, y: 5}
+        - {x: 50.5, y: 81}
+        - {x: 10.5, y: 104}
+      - - {x: -27.5, y: 10}
+        - {x: -27.5, y: 8}
+        - {x: -25.5, y: 6}
+        - {x: -24.5, y: 6}
+        - {x: -21.5, y: 9}
+        - {x: -22.5, y: 12}
+        - {x: -25.5, y: 12}
+    - name: photo_2016-06-30_18-12-52_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 141
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 54}
+        - {x: -32, y: 9}
+        - {x: -23, y: 0}
+        - {x: 15, y: 0}
+        - {x: 32, y: 18}
+        - {x: 32, y: 54}
+    - name: photo_2016-06-30_18-12-52_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 121
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 64}
+        - {x: -27, y: 42}
+        - {x: -27, y: 5}
+        - {x: -25, y: 0}
+        - {x: 6, y: 0}
+        - {x: 18, y: 2}
+        - {x: 27, y: 17}
+        - {x: 27, y: 59}
+        - {x: 26, y: 64}
+    - name: photo_2016-06-30_18-12-52_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 115
+        width: 50
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 71}
+        - {x: -19, y: 61}
+        - {x: -25, y: 45}
+        - {x: -25, y: 0}
+        - {x: 4, y: 0}
+        - {x: 12, y: 2}
+        - {x: 25, y: 14}
+        - {x: 25, y: 71}
+    - name: photo_2016-06-30_18-12-52_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 121
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 27.5, y: 7}
+        - {x: 27.5, y: 63}
+        - {x: -14.5, y: 63}
+        - {x: -27.5, y: 40}
+    - name: photo_2016-06-30_18-12-52_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 131
+        width: 101
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 95}
+        - {x: 1.5, y: 106}
+        - {x: -4.5, y: 106}
+        - {x: -4.5, y: 102}
+        - {x: -3.5, y: 99}
+        - {x: -10.5, y: 106}
+        - {x: -19.5, y: 106}
+        - {x: -29.5, y: 101}
+        - {x: -31.5, y: 86}
+        - {x: -50.5, y: 62}
+        - {x: -50.5, y: 38}
+        - {x: -32.5, y: 1}
+        - {x: -27.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 49.5, y: 5}
+        - {x: 50.5, y: 9}
+        - {x: 50.5, y: 71}
+    - name: photo_2016-06-30_18-12-52_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 51}
+        - {x: -51, y: 51}
+        - {x: -51, y: 40}
+        - {x: -24, y: 3}
+        - {x: 1, y: 0}
+        - {x: 34, y: 0}
+        - {x: 47, y: 7}
+        - {x: 51, y: 16}
+        - {x: 51, y: 44}
+      - - {x: -34, y: 16}
+        - {x: -31, y: 17}
+        - {x: -31, y: 20}
+        - {x: -34, y: 21}
+        - {x: -36, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
