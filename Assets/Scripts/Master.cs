@@ -17,6 +17,8 @@ public class Master : MonoBehaviour
     public static int m_PlayerStandardBulletDamage = 10;
     public static int m_PlayerBonusBulletDamage = 100;
 
+    public int m_CurrentEnemyHealth = 100;
+
 
 	void Awake ()
 	{
@@ -66,7 +68,9 @@ public class Master : MonoBehaviour
 	public void SpawnEnemy (Vector2 location)
 	{
 		GameObject enemy = (GameObject)Instantiate (m_EnemyPrefab, location, Quaternion.identity);
-		enemy.name = "New Enemy (" + location + ")";
+        enemy.GetComponent<Enemy>().m_CurrentHealth = m_CurrentEnemyHealth;
+        enemy.GetComponent<Enemy>().m_MaxHealth = m_CurrentEnemyHealth;
+        enemy.name = "New Enemy (" + location + ")";
 	}
 
 	public void IncreaseScore (int amount)
